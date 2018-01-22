@@ -1,0 +1,27 @@
+<RCC>
+    <qresource prefix="/">
+        <file>qml/main.qml</file>
+        <file>qml/Cell.qml</file>
+        <file>qml/Menu.qml</file>
+        <file>qml/GameScene.qml</file>
+        <file>qml/LevelSelect.qml</file>
+
+        <file>qml/levels/RadGradient.qml</file>
+        <file>qml/levels/Cross.qml</file>
+        <file>qml/levels/GifLevel.qml</file>
+        <file>qml/levels/PepeLevel.qml</file>
+        <file>qml/levels/GifLevel2.qml</file>
+        <file>qml/levels/GifLevel3.qml</file>
+        <file>qml/levels/GifLevel4.qml</file>
+        <file>qml/levels/GifLevel5.qml</file>
+        <file>qml/levels/MenuGif.qml</file>
+        <file>qml/levels/GifLevel0.qml</file>
+        <file>qml/levels/GifLevelSun.qml</file>
+
+        <file>qml/fonts/Games.ttf</file>
+        <file>qml/fonts/start.ttf</file>
+        <file>qml/icons/returnIcon.png</file>
+        <file>qml/shaders/cell.vert</file>
+        <file>qml/shaders/cell.frag</file>
+    </qresource>
+</RCC>
